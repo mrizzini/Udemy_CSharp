@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Udemy_CSharp.csproj",
-      "projectName": "Udemy_CSharp",
-      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Udemy_CSharp.csproj",
+      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/Section4.csproj",
+      "projectName": "Section4",
+      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/Section4.csproj",
       "packagesPath": "/Users/matthewrizzini/.nuget/packages/",
-      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/obj/",
+      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

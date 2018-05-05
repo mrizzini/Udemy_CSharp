@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/bin/Debug/netcoreapp2.0/Section4.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/bin/Debug/netcoreapp2.0/Section4.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/bin/Debug/netcoreapp2.0/Section4.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/bin/Debug/netcoreapp2.0/Section4.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/bin/Debug/netcoreapp2.0/Section4.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/Debug/netcoreapp2.0/Section4.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/Debug/netcoreapp2.0/Section4.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/Debug/netcoreapp2.0/Section4.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/Debug/netcoreapp2.0/Section4.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section4/obj/Debug/netcoreapp2.0/Section4.pdb
