@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/bin/Debug/netcoreapp2.0/Eight.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Eight/obj/Debug/netcoreapp2.0/Eight.pdb
