@@ -8,7 +8,23 @@ namespace Two
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            System.Console.WriteLine("Please enter your name: ");
+            string nameString = Console.ReadLine();
+            System.Console.WriteLine(nameString[0]);
+
+            var nameArray = new char [nameString.Length];
+
+
+            for (var i = 0; i < nameString.Length; i++)
+            {
+                nameArray[i] = nameString[i];
+            }
+
+            Array.Reverse(nameArray);
+            string reversedName = string.Join("", nameArray);
+            System.Console.WriteLine("Reversed name is {0}", 
+
         }
     }
 }
