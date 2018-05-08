@@ -14,7 +14,7 @@ namespace CodeAlongs
              var fullName = "Mosh Hamedani  "; // has whitespace at end
 
              // Trim()
-             System.Console.WriteLine("Trim: '{0}'", fullName.T());
+             System.Console.WriteLine("Trim: '{0}'", fullName.Trim());
              // helpful when compparing strings
 
             // ToUpper
