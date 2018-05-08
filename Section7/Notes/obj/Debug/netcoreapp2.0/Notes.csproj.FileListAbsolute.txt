@@ -1,0 +1,10 @@
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/bin/Debug/netcoreapp2.0/Notes.deps.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/bin/Debug/netcoreapp2.0/Notes.runtimeconfig.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/bin/Debug/netcoreapp2.0/Notes.runtimeconfig.dev.json
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/bin/Debug/netcoreapp2.0/Notes.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/bin/Debug/netcoreapp2.0/Notes.pdb
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/obj/Debug/netcoreapp2.0/Notes.csproj.CoreCompileInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/obj/Debug/netcoreapp2.0/Notes.AssemblyInfoInputs.cache
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/obj/Debug/netcoreapp2.0/Notes.AssemblyInfo.cs
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/obj/Debug/netcoreapp2.0/Notes.dll
+/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section7/Notes/obj/Debug/netcoreapp2.0/Notes.pdb
