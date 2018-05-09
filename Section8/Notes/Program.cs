@@ -48,6 +48,19 @@ namespace Notes
             // Replace()
             // Clear()
 
+
+            // PROCEDURAL PROGRAMMING
+
+           // A programming paradigm based on procedure calls
+           // proceudre - function, method, routine, sub routine
+
+           // real apps are not all built in main
+
+           // OOP - programming paradigm based on objects
+
+           // always separate code that works with the console with the code that implements some logic
+
+
         }
     }
 }

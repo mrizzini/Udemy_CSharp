@@ -12,10 +12,48 @@ namespace One
         {
             Console.Write("Enter a few numbers (eg 1-2-3-4): ");
             var input = Console.ReadLine();
+
+            // var answer = isConsecutive(input);
+            System.Console.WriteLine(isConsecutive(input)); 
+            // var numberList = new List<int>();
+            
+            // var inputArray = input.Split('-');
+            // string msg = "Valid";
+
+            // foreach (var num in inputArray)
+            // {
+            //     numberList.Add(Convert.ToInt32(num));
+            // }
+
+            // numberList.Sort();
+
+            // for (var i = 1; i < numberList.Count; i++)
+            // {
+            //     if (numberList[i] != numberList[i - 1] + 1)
+            //     {
+            //         msg = "Invalid";
+            //         break;
+            //     }
+            // }
+
+            //     if (msg == "Invalid")
+            //     {
+            //         System.Console.WriteLine(msg);
+            //     }
+            //     else
+            //     {
+            //         System.Console.WriteLine("Valid");
+            //     }
+
+        }
+
+        public static string isConsecutive(string input)
+        {
+
             var numberList = new List<int>();
             
             var inputArray = input.Split('-');
-            string msg = "Valid";
+            string msg = "";
 
             foreach (var num in inputArray)
             {
@@ -35,13 +73,16 @@ namespace One
 
                 if (msg == "Invalid")
                 {
-                    System.Console.WriteLine(msg);
+                    // System.Console.WriteLine(msg);
+                    return msg;
                 }
                 else
                 {
-                    System.Console.WriteLine("Valid");
+                    // System.Console.WriteLine("Valid");
+                    return "Valid";
                 }
 
         }
+
     }
 }
