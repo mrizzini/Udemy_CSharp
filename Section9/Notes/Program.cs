@@ -18,6 +18,13 @@ namespace Notes
             // Path
 
 
+            // small number of operations - file class
+            // dont have to create an object
+            // but everytime you access, security runs
+
+            // large number of operations - fileinfo class
+            // secuirty only runs when creating object. once
+
             // File, FileInfo
             // both provide methods for creating, copying, deleting, moving and opening of files
             // similar interfaces
@@ -31,7 +38,7 @@ namespace Notes
             // is done by the operating system to make sure the current user has access to the file
             // will affect performance if u have a lot of operations
 
-            // in that case, more efficent to create a filing for class and access all its instance methods
+            // in that case, more efficent to create a file info class and access all its instance methods
             // security checking done only once during creation of fileinfo class
 
             // Create()
