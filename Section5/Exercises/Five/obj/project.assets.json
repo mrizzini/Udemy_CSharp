@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Five/Five.csproj",
+      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/Exercises/Five/Five.csproj",
       "projectName": "Five",
-      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Five/Five.csproj",
+      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/Exercises/Five/Five.csproj",
       "packagesPath": "/Users/matthewrizzini/.nuget/packages/",
-      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/Exercises/Five/obj/",
+      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/Exercises/Five/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

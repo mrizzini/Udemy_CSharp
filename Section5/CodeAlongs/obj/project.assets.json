@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/CodeAlongs/CodeAlongs.csproj",
+      "projectUniqueName": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/CodeAlongs/CodeAlongs.csproj",
       "projectName": "CodeAlongs",
-      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/CodeAlongs/CodeAlongs.csproj",
+      "projectPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/CodeAlongs/CodeAlongs.csproj",
       "packagesPath": "/Users/matthewrizzini/.nuget/packages/",
-      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp/Section5/CodeAlongs/obj/",
+      "outputPath": "/Users/matthewrizzini/Desktop/Visual Studio Projects/Udemy_CSharp_Beginner/Section5/CodeAlongs/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
